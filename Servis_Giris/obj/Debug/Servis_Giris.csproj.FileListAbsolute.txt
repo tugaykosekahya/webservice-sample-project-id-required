@@ -1,0 +1,9 @@
+C:\Users\Tugay\Documents\Visual Studio 2015\Projects\Servis_Giris\Servis_Giris\bin\Debug\Servis_Giris.exe.config
+C:\Users\Tugay\Documents\Visual Studio 2015\Projects\Servis_Giris\Servis_Giris\bin\Debug\Servis_Giris.exe
+C:\Users\Tugay\Documents\Visual Studio 2015\Projects\Servis_Giris\Servis_Giris\bin\Debug\Servis_Giris.pdb
+C:\Users\Tugay\Documents\Visual Studio 2015\Projects\Servis_Giris\Servis_Giris\obj\Debug\Servis_Giris.Form1.resources
+C:\Users\Tugay\Documents\Visual Studio 2015\Projects\Servis_Giris\Servis_Giris\obj\Debug\Servis_Giris.Properties.Resources.resources
+C:\Users\Tugay\Documents\Visual Studio 2015\Projects\Servis_Giris\Servis_Giris\obj\Debug\Servis_Giris.csproj.GenerateResource.Cache
+C:\Users\Tugay\Documents\Visual Studio 2015\Projects\Servis_Giris\Servis_Giris\obj\Debug\Servis_Giris.exe
+C:\Users\Tugay\Documents\Visual Studio 2015\Projects\Servis_Giris\Servis_Giris\obj\Debug\Servis_Giris.pdb
+C:\Users\Tugay\Documents\Visual Studio 2015\Projects\Servis_Giris\Servis_Giris\obj\Debug\Servis_Giris.DogrulaTckn.resources
